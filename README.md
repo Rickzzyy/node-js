@@ -1,1 +1,1 @@
-I put this project into heroku, here you can check it - https://dashboard.heroku.com/apps/node-js-by-ricards/settings
+I put this project into heroku, here you can check it - https://node-js-by-ricards-b06ab186524e.herokuapp.com
